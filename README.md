@@ -2,6 +2,10 @@
 
 A single-page e-commerce frontend built using HTML and CSS.
 
+##Live Demo
+
+https://sakshamagrawalcode-cpu.github.io/nextcart/
+
 ## About the Project
 
 NexCart is my first frontend development project, created shortly after learning the basics of HTML and CSS.
