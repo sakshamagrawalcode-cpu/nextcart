@@ -2,7 +2,7 @@
 
 A single-page e-commerce frontend built using HTML and CSS.
 
-##Live Demo
+## Live Demo
 
 https://sakshamagrawalcode-cpu.github.io/nextcart/
 
