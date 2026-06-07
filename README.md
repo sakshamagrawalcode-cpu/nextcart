@@ -1,74 +1,122 @@
 # NexCart
 
-A single-page e-commerce frontend built using HTML and CSS.
+A single-page frontend e-commerce UI project built with 
+pure HTML and CSS.
 
-## Live Demo
+🌐 **Live Demo:** https://sakshamagrawalcode-cpu.github.io/nextcart/
 
-https://sakshamagrawalcode-cpu.github.io/nextcart/
+> ⚠️ **Note on Browser Warning:** Some browsers may flag 
+> this site because the UI layout is visually similar to 
+> Amazon's website. This project is not Amazon, is not 
+> impersonating Amazon, and contains no Amazon assets or 
+> code. The similarity is purely a result of using Amazon's 
+> publicly visible interface as a visual learning reference. 
+> This is a personal educational project.
 
-## About the Project
+---
 
-NexCart is my first frontend development project, created shortly after learning the basics of HTML and CSS.
+## About
 
-The purpose of this project was to practice frontend development concepts such as page structure, layouts, styling, spacing, positioning, and user interface design.
+NexCart is my first frontend project, built shortly after 
+completing basic HTML and CSS learning. The goal was to 
+practice building a real-world style UI layout from scratch 
+by visually referencing a well-known e-commerce interface.
 
-The overall design was inspired by the layout and visual structure commonly seen on Amazon's website. However, I did not use, copy, or reference Amazon's source code while building this project. All HTML and CSS code was written by me from scratch as a learning exercise. No Amazon assets, logos, images, or proprietary resources are used in this project.
+I am currently re-studying HTML and CSS at a deeper and more 
+advanced level. This project reflects my skill level at the 
+time of initial creation.
 
-While developing the project, I occasionally used online resources and small AI-assisted explanations when I was stuck on specific concepts, but the implementation and code were written and assembled by me.
+---
 
-This project is intended solely for educational purposes and to showcase my early frontend development skills.
+## Design Inspiration
 
-## Project Type
+The layout structure and color scheme are visually inspired 
+by the Amazon.com website. I studied the Amazon interface 
+by looking at the live website only, to understand how 
+e-commerce layouts are structured including the navigation 
+bar, hero section, product category grid, and footer.
 
-* Single-page website
-* Frontend only
-* HTML and CSS only
-* No backend
-* No database
-* No JavaScript functionality
+I did not view, copy, or reference any of Amazon's source 
+code at any point. All HTML and CSS was written entirely 
+from scratch by me based on visual observation only.
 
-## Features
+---
 
-* E-commerce style homepage layout
-* Navigation bar with search section
-* Account and cart interface sections
-* Product category cards
-* Hero banner section
-* Multi-section page design
-* Footer with organized links
-* Custom CSS styling
+## Assets
 
-## Technologies Used
+- **Logo:** Generated using Google Gemini AI, edited in Canva
+- **Hero Image:** Generated using Google Gemini AI, 
+  edited in Canva
+- **Icons:** Font Awesome via CDN
 
-* HTML5
-* CSS3
-* Font Awesome
+---
 
-## What I Learned
+## What I Built
 
-Through this project, I practiced:
+- Navigation bar with logo, search bar, account and cart
+- Secondary navigation panel with category links
+- Hero banner section
+- Two rows of product category cards
+- Multi-column footer
 
-* Semantic HTML
-* CSS styling
-* Flexbox layouts
-* UI design principles
-* Page structure organization
-* Component styling
-* Building a complete webpage from scratch
+---
 
-## Current Status
+## Tech Stack
 
-This project represents my first step into frontend development. After completing it, I continued studying HTML and CSS in greater depth and am currently learning more advanced frontend development concepts.
+- HTML5
+- CSS3
+- Font Awesome (icons only, via CDN)
+- No JavaScript
+- No frameworks
+- No libraries
+- No backend
 
-## Running the Project
+---
+
+## Known Limitations
+
+- Optimized for laptop and desktop screens only
+- Not responsive for mobile or tablet
+- Buttons and links are non-functional
+- Single page only
+
+---
+
+## How to View Locally
 
 1. Clone the repository
-2. Open `index.html` in a web browser
+2. Open `index.html` in any browser
+
+---
+
+## Code Authorship
+
+Every line of HTML and CSS was written manually by me 
+without AI code generation. Where I got stuck on specific 
+small issues I occasionally asked AI for explanation only. 
+No code was generated or copy-pasted from any AI tool.
+
+---
+
+## Purpose
+
+- Practice HTML and CSS after initial learning
+- Understand real-world e-commerce UI structure
+- Build my first complete webpage from scratch
+- Demonstrate frontend UI skills
+
+---
 
 ## Disclaimer
 
-This project is an independent educational project and is not affiliated with, endorsed by, or associated with Amazon or any other company. Any similarity in layout structure is solely due to design inspiration and frontend practice purposes.
+This is a personal educational frontend project. Not 
+affiliated with, endorsed by, or associated with Amazon 
+or any other company. Layout is inspired by Amazon's 
+visual design for learning purposes only. All code is 
+original and written by the developer.
+
+---
 
 ## License
 
-MIT License
+MIT
